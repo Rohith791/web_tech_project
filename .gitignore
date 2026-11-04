@@ -1,0 +1,18 @@
+# Archives
+*.zip
+*.rar
+*.7z
+
+# System and temporary files
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Python cache (if any)
+__pycache__/
+*.py[cod]
+
+# IDE / Editor
+.vscode/
+.idea/
